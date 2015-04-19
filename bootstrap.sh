@@ -4,7 +4,7 @@
     DBHOST=localhost
     DBNAME=laravel
     DBUSER=root
-    DBPASSWD=4mation
+    DBPASSWD=laravel
 
 # update packages
     apt-get update
